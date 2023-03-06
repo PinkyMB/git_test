@@ -1,7 +1,5 @@
-greeting Odin!
+greetings Odin!
 
-bla bla bla woohoo!git ad
-
-also new new new ssssss
+bla bla bla woohoo!
 
 great success!
